@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Conversion</string>
+    <string name="conversion_calculator">Conversion Calculator</string>
+    <string name="feet_to_meter">Feet to Meters</string>
+    <string name="meter_to_feet">Meters to Feet</string>
+    <string name="meter_to_cm">Meters to CM</string>
+    <string name="cm_to_meter">CM to Meters</string>
+    <string name="km_to_meter">KM to Meters</string>
+    <string name="meter_to_km">Meters to KM</string>
+    <string name="calculate">Calculate</string>
+</resources>
